@@ -33,6 +33,6 @@ _Here you should put the URL of your final repository after finishing the given 
 1. Getting Started with GitHub Copilot: _[REPO LINK 1](https://github.com/codebefore94/skills-getting-started-with-github-copilot)_
 2. Customize Your GitHub Copilot Experience: [_REPO LINK 2_](https://github.com/codebefore94/skills-customize-your-github-copilot-experience)
 3. GitHub Copilot Code Review:  _REPO LINK 3_
-4. Integrate MCP with GitHub Copilot: _REPO LINK 4_
+4. Integrate MCP with GitHub Copilot: [_REPO LINK 4_](https://github.com/codebefore94/skills-integrate-mcp-with-copilot)
 
 
